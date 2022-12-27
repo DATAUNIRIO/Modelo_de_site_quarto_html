@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Some DS4PS class"
+  title: "meu modelo de quarto"
 
   repo-url: "https://github.com/andrewheiss/ds4ps-quarto-example"
   repo-actions: [edit, issue]

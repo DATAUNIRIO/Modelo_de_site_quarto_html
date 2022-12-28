@@ -1,0 +1,14 @@
+{
+  "hash": "9290d3f76f9c776916c545b818b97646",
+  "result": {
+    "markdown": "---\ntitle: \"Modelo de site com o quarto html\"\nformat: html\n---\n\n::: {.cell}\n<style type=\"text/css\">\n\n.content-block {\n  padding-top: 20px;\n  padding-bottom: 10px;\n  margin-left: 30px;\n  margin-right: 30px;\n}\n\n#home h1,\n#home h2 {\n  text-align: center;\n}\n\nvermelha {\n    background-color: red;\n}\n</style>\n:::\n\n\nThis is a course website built with [Quarto](https://quarto.org/).\n\n\n\n\n# Bayesian Statistics\n\n\nIndependent readings course on Bayesian statistics with R and Stan\n\n::: {.cell}\n\n```{.r .cell-code}\n#::: {#home}\n#::: {.content-block}\n#::: {.text-center .text-secondary .fs-4}\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": [],
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

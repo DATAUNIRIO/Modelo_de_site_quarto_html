@@ -6,6 +6,7 @@ execute:
 
 website:
   title: "Curso de estatística"
+  output-dir: docs
 
   navbar:
     pinned: true

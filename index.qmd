@@ -19,9 +19,6 @@ execute:
   text-align: center;
 }
 
-quarto-header {
-    background-color: red;
-}
 
 ```
 

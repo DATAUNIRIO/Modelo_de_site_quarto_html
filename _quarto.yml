@@ -5,25 +5,22 @@ execute:
   freeze: auto
 
 website:
-  title: "meu modelo de quarto"
-
-  repo-url: "https://github.com/andrewheiss/ds4ps-quarto-example"
-  repo-actions: [edit, issue]
+  title: "Curso de estatística"
 
   navbar:
     pinned: true
     left:
       - href: index.qmd
-        text: Home
+        text: Início
       - r-stuff.qmd
       - python-stuff.qmd
     right:
       - icon: github
-        href: "https://github.com/andrewheiss/ds4ps-quarto-example"
+        href: "https://steven.metodosquantitativos.com/"
         aria-label: GitHub
 
 format:
   html:
-    theme: zephyr
+    theme: superhero
     css: styles.css
     toc: true

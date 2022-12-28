@@ -1,6 +1,8 @@
 ---
 title: "Modelo de site com o quarto html"
 format: html
+execute:
+  echo: false
 ---
 
 ```{css echo=FALSE}
@@ -17,9 +19,10 @@ format: html
   text-align: center;
 }
 
-vermelha {
+quarto-header {
     background-color: red;
 }
+
 ```
 
 
